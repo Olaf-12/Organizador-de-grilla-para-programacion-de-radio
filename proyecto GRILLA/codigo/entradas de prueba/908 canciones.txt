@@ -1,0 +1,909 @@
+908
+Luciernagas de la noche 3 45 87
+El eco de tus pasos 4 12 91
+Suenos de papel 2 55 76
+Bajo la luna de cristal 5 30 95
+Ritmo del corazon 3 21 82
+Caminando en la oscuridad 4 08 79
+Brisas del pasado 2 17 68
+Despertar en la neblina 5 42 93
+Sabor a melodia 3 19 88
+Sombras del amanecer 4 25 74
+El susurro del viento 2 58 85
+Un nuevo horizonte 5 05 96
+Cancion para un adios 3 33 80
+Destellos de una estrella 4 15 90
+Miradas en el silencio 2 48 77
+La melodia perdida 5 22 92
+Reflejos en el mar 3 01 89
+Laberintos de la mente 4 39 71
+El jardin de los secretos 2 29 84
+Viaje a la eternidad 5 11 94
+El vuelo de un ave 3 50 83
+Historias en el tiempo 4 03 97
+Luces de la ciudad 2 36 78
+El rio de tus lagrimas 5 18 99
+Amanecer en tus ojos 3 09 81
+El ultimo baile 4 28 86
+Voces en la distancia 2 51 75
+El camino sin fin 5 47 98
+Lluvia en el alma 3 40 73
+Despues del huracan 4 19 91
+Ecos de un amor pasado 2 44 82
+La ultima cancion 5 07 94
+Espejismos de un adios 3 23 88
+Noche de luna llena 4 37 76
+El corazon del desierto 2 59 90
+El sonido de la nada 5 14 93
+Lagrimas de sal 3 11 81
+La voz de los angeles 4 26 87
+Secretos de un poeta 2 49 74
+El laberinto de cristal 5 32 95
+El beso del silencio 3 18 89
+Caminos cruzados 4 06 91
+El resplandor del sol 2 54 79
+El jardin de los suenos 5 03 96
+El final del camino 3 27 80
+El rio de la vida 4 13 90
+Cielos de terciopelo 2 45 77
+Deseos de libertad 5 28 92
+El ultimo suspiro 3 07 88
+La ciudad dormida 4 21 75
+La llave del misterio 2 53 84
+El abrazo del tiempo 5 16 94
+El canto de la sirena 3 35 83
+El guardian de los suenos 4 08 97
+El eco de la nostalgia 2 39 78
+El adios que no fue 5 19 99
+El corazon de la tierra 3 14 81
+El vals del olvido 4 29 86
+La fuente de la ilusion 2 56 75
+El secreto de la noche 5 49 98
+El vuelo del colibri 3 41 73
+Despertar sin ti 4 20 91
+La ultima promesa 2 47 82
+Los versos de un adios 5 09 94
+El corazon en un hilo 3 24 88
+El latido del universo 4 38 76
+El camino de las estrellas 2 50 90
+El beso de la luna 5 15 93
+Los ojos del alma 3 12 81
+La tormenta perfecta 4 27 87
+El jardin de las mariposas 2 46 74
+El faro en la niebla 5 33 95
+El susurro de la lluvia 3 19 89
+El resplandor del alma 4 07 91
+El ultimo deseo 2 55 79
+La cuna del viento 5 04 96
+El beso del tiempo 3 28 80
+La sinfonia del mar 4 14 90
+El cristal de tu mirada 2 43 77
+El vuelo de un angel 5 29 92
+El ultimo rayo de sol 3 08 88
+La cancion del recuerdo 4 22 75
+El eco de tu voz 2 52 84
+El secreto de la arena 5 17 94
+El rio del olvido 3 36 83
+El guardian del silencio 4 09 97
+El susurro de la ciudad 2 40 78
+El final de la historia 5 20 99
+El corazon de hielo 3 15 81
+El vals de los adioses 4 30 86
+La melodia de la noche 2 57 75
+El vuelo de la libelula 5 50 98
+El abrazo del sol 3 42 73
+La ultima vez 4 21 91
+El hilo de la vida 2 48 82
+La voz de la nostalgia 5 10 94
+El corazon de cristal 3 25 88
+El baile de las estrellas 4 39 76
+El camino de la verdad 2 51 90
+La cancion del faro 5 16 93
+El beso de la brisa 3 13 81
+La noche de los secretos 4 28 87
+El jardin del olvido 2 47 74
+El faro de la vida 5 34 95
+El susurro de las hojas 3 20 89
+El resplandor del agua 4 08 91
+El ultimo adios 2 56 79
+La cuna de la luna 5 05 96
+El beso de la manana 3 29 80
+La sinfonia de la lluvia 4 15 90
+El cristal de la verdad 2 44 77
+El vuelo de la esperanza 5 30 92
+El ultimo suspiro de amor 3 09 88
+La cancion del bosque 4 23 75
+El eco del mar 2 53 84
+El secreto de la noche 5 18 94
+El rio de las lagrimas 3 37 83
+El guardian del tiempo 4 10 97
+El susurro del pasado 2 41 78
+El final de un sueno 5 21 99
+El corazon de fuego 3 16 81
+El vals de los suenos 4 31 86
+La melodia del alma 2 58 75
+El vuelo del aguila 5 51 98
+El abrazo de la noche 3 43 73
+La ultima lagrima 4 22 91
+El hilo rojo 2 49 82
+La voz de la verdad 5 11 94
+El corazon en llamas 3 26 88
+El baile de las sirenas 4 40 76
+El camino de la luz 2 52 90
+La cancion del viento 5 17 93
+El beso del sol 3 14 81
+La noche de la luna 4 29 87
+El jardin de la vida 2 48 74
+El faro de la esperanza 5 35 95
+El susurro de los arboles 3 21 89
+El resplandor del atardecer 4 09 91
+El ultimo anochecer 2 57 79
+La cuna de los suenos 5 06 96
+El beso de la tarde 3 30 80
+La sinfonia del alma 4 16 90
+El cristal de la vida 2 45 77
+El vuelo de la mente 5 31 92
+El ultimo respiro 3 10 88
+La cancion de la lluvia 4 24 75
+El eco del silencio 2 54 84
+El secreto de la vida 5 19 94
+El rio de la vida 3 38 83
+El guardian de la noche 4 11 97
+El susurro de la oscuridad 2 42 78
+El final de la noche 5 22 99
+El corazon de cristal 3 17 81
+El vals de los recuerdos 4 32 86
+La melodia del corazon 2 59 75
+El vuelo de la libertad 5 52 98
+El abrazo del viento 3 44 73
+La ultima cancion de amor 4 23 91
+El hilo azul 2 50 82
+La voz del corazon 5 12 94
+El corazon de la noche 3 27 88
+El baile del sol 4 41 76
+El camino del destino 2 53 90
+La cancion de las estrellas 5 18 93
+El beso de la noche 3 15 81
+La noche de los poetas 4 30 87
+El jardin del tiempo 2 49 74
+El faro de la verdad 5 36 95
+El susurro de la noche 3 22 89
+El resplandor de la luna 4 10 91
+El ultimo amanecer 2 58 79
+La cuna de la esperanza 5 07 96
+El beso del recuerdo 3 31 80
+La sinfonia de la vida 4 17 90
+El cristal del tiempo 2 46 77
+El vuelo del pensamiento 5 32 92
+El ultimo latido 3 11 88
+La cancion del mar 4 25 75
+El eco del pasado 2 55 84
+El secreto de la mente 5 20 94
+El rio de los suenos 3 39 83
+El guardian del alma 4 12 97
+El susurro del alma 2 43 78
+El final de un ciclo 5 23 99
+El corazon de arena 3 18 81
+El vals de la vida 4 33 86
+La melodia del recuerdo 3 00 75
+El vuelo de la luz 5 53 98
+El abrazo del alma 3 45 73
+La ultima esperanza 4 24 91
+El hilo dorado 2 51 82
+La voz del mar 5 13 94
+El corazon de la esperanza 3 28 88
+El baile del viento 4 42 76
+El camino del sol 2 54 90
+La cancion del alma 5 19 93
+El beso del destino 3 16 81
+La noche de las almas 4 31 87
+El jardin de la ilusion 2 50 74
+El faro de los suenos 5 37 95
+El susurro de la esperanza 3 23 89
+El resplandor de la vida 4 11 91
+El ultimo anochecer de la vida 2 59 79
+La cuna del alma 5 08 96
+El beso de la libertad 3 32 80
+La sinfonia del universo 4 18 90
+El cristal de la memoria 2 47 77
+El vuelo de un sueno 5 33 92
+El ultimo adios al verano 3 12 88
+La cancion del viento y el mar 4 26 75
+El eco del infinito 2 56 84
+El secreto de las estrellas 5 21 94
+El rio de la nostalgia 3 40 83
+El guardian del tiempo y el espacio 4 13 97
+El susurro de la luz 2 44 78
+El final de un viaje 5 24 99
+El corazon de una estrella 3 19 81
+El vals de los corazones rotos 4 34 86
+La melodia de la vida 3 01 75
+El vuelo de la imaginacion 5 54 98
+El abrazo de la soledad 3 46 73
+La ultima melodia 4 25 91
+El hilo de los suenos 2 52 82
+La voz de la luna 5 14 94
+El corazon de un guerrero 3 29 88
+El baile de la vida 4 43 76
+El camino de la soledad 2 55 90
+La cancion de la soledad 5 20 93
+El beso de la nostalgia 3 17 81
+La noche de los suspiros 4 32 87
+El jardin de los olvidos 2 51 74
+El faro de la soledad 5 38 95
+El susurro del silencio 3 24 89
+El resplandor del alma 4 12 91
+El ultimo suspiro de la noche 3 00 79
+La cuna de la soledad 5 09 96
+El beso de la eternidad 3 33 80
+La sinfonia del recuerdo 4 19 90
+El cristal del pasado 2 48 77
+El vuelo del destino 5 34 92
+El ultimo atardecer 3 13 88
+La cancion de los adioses 4 27 75
+El eco de los pasos perdidos 2 57 84
+El secreto de los oceanos 5 22 94
+El rio de las lagrimas 3 41 83
+El guardian de los recuerdos 4 14 97
+El susurro de la memoria 2 45 78
+El final de la eternidad 5 25 99
+El corazon de la ilusion 3 20 81
+El vals de la soledad 4 35 86
+La melodia de la soledad 3 02 75
+El vuelo de la noche 5 55 98
+El abrazo del pasado 3 47 73
+La ultima historia 4 26 91
+El hilo del destino 2 53 82
+La voz de la eternidad 5 15 94
+El corazon de la soledad 3 30 88
+El baile de los recuerdos 4 44 76
+El camino de los suenos 2 56 90
+La cancion de la luna 5 21 93
+El beso del pasado 3 18 81
+La noche de los adioses 4 33 87
+El jardin del final 2 52 74
+El faro de la eternidad 5 39 95
+El susurro del viento 3 25 89
+El resplandor de la soledad 4 13 91
+El ultimo anhelo 3 01 79
+La cuna de la noche 5 10 96
+El beso del alma 3 34 80
+La sinfonia del final 4 20 90
+El cristal del alma 2 49 77
+El vuelo de la luz de la luna 5 35 92
+El ultimo resplandor 3 14 88
+La cancion del corazon 4 28 75
+El eco de un adios 2 58 84
+El secreto del tiempo 5 23 94
+El rio de los suenos perdidos 3 42 83
+El guardian de la luz 4 15 97
+El susurro del adios 2 46 78
+El final de la soledad 5 26 99
+El corazon de un sueno 3 21 81
+El vals de la eternidad 4 36 86
+La melodia del destino 3 03 75
+El vuelo del corazon 5 56 98
+El abrazo del destino 3 48 73
+La ultima noche 4 27 91
+El hilo de la vida 2 54 82
+La voz de los vientos 5 16 94
+El corazon de los secretos 3 31 88
+El baile de la soledad 4 45 76
+El camino de los recuerdos 2 57 90
+La cancion de la esperanza 5 22 93
+El beso del atardecer 3 19 81
+La noche de los suenos 4 35 87
+El jardin de los secretos 2 53 74
+El faro de la luz 5 40 95
+El susurro de la melancolia 3 26 89
+El resplandor del destino 4 14 91
+El ultimo sueno 3 02 79
+La cuna de los suenos 5 11 96
+El beso de la esperanza 3 35 80
+La sinfonia del silencio 4 21 90
+El cristal del futuro 2 50 77
+El vuelo del tiempo 5 36 92
+El ultimo suspiro del dia 3 15 88
+La cancion de la vida 4 29 75
+El eco del corazon 2 59 84
+El secreto de los arboles 5 24 94
+El rio de la esperanza 3 43 83
+El guardian de la soledad 4 16 97
+El susurro de la vida 2 47 78
+El final de la vida 5 27 99
+El corazon de la noche 3 22 81
+El vals del destino 4 37 86
+La melodia de la esperanza 3 04 75
+El vuelo del pensamiento 5 57 98
+El abrazo de la esperanza 3 49 73
+La ultima lagrima 4 28 91
+El hilo de la soledad 2 55 82
+La voz de la noche 5 17 94
+El corazon de un adios 3 32 88
+El baile del destino 4 46 76
+El camino de la esperanza 2 58 90
+La cancion del amor 5 23 93
+El beso de la noche 3 20 81
+La noche de los suenos 4 35 87
+El jardin de la esperanza 2 54 74
+El faro de la esperanza 5 41 95
+El susurro de la esperanza 3 27 89
+El resplandor del corazon 4 15 91
+El ultimo rayo de luna 3 03 79
+La cuna de la esperanza 5 12 96
+El beso de la libertad 3 36 80
+La sinfonia del corazon 4 22 90
+El cristal de la esperanza 2 51 77
+El vuelo de la luz 5 37 92
+El ultimo baile de la noche 3 16 88
+La cancion de la soledad 4 30 75
+El eco de la vida 3 00 84
+El secreto del alma 5 25 94
+El rio de la libertad 3 44 83
+El guardian del amor 4 17 97
+El susurro de la esperanza 2 48 78
+El final de un amor 5 28 99
+El corazon de un sueno 3 23 81
+El vals de los adioses 4 38 86
+La melodia del alma 3 05 75
+El vuelo del amor 5 58 98
+El abrazo de un sueno 3 50 73
+La ultima cancion 4 29 91
+El hilo del corazon 2 56 82
+La voz del destino 5 18 94
+El corazon de la libertad 3 33 88
+El baile del corazon 4 47 76
+El camino del amor 2 59 90
+La cancion de la libertad 5 24 93
+El beso del amanecer 3 21 81
+La noche de la libertad 4 36 87
+El jardin de la libertad 2 55 74
+El faro de la libertad 5 42 95
+El susurro del amor 3 28 89
+El resplandor del amor 4 16 91
+El ultimo suspiro del amor 3 04 79
+La cuna de la libertad 5 13 96
+El beso de la verdad 3 37 80
+La sinfonia de la verdad 4 23 90
+El cristal de la verdad 2 52 77
+El vuelo de la verdad 5 38 92
+El ultimo beso de la noche 3 17 88
+La cancion de la verdad 4 31 75
+El eco de la verdad 3 01 84
+El secreto de la verdad 5 26 94
+El rio de la verdad 3 45 83
+El guardian de la verdad 4 18 97
+El susurro de la verdad 2 49 78
+El final de la verdad 5 29 99
+El corazon de la verdad 3 24 81
+El vals de la verdad 4 39 86
+La melodia de la verdad 3 06 75
+El vuelo de la verdad 5 59 98
+El abrazo de la verdad 3 51 73
+La ultima verdad 4 30 91
+El hilo de la verdad 2 57 82
+La voz de la verdad 5 19 94
+El corazon de la verdad 3 34 88
+El baile de la verdad 4 48 76
+El camino de la verdad 3 00 90
+La cancion de la verdad 5 25 93
+El beso del amanecer de la verdad 3 22 81
+La noche de la verdad 4 37 87
+El jardin de la verdad 2 56 74
+El faro de la verdad 5 43 95
+El susurro de la verdad 3 29 89
+El resplandor de la verdad 4 17 91
+El ultimo suspiro de la verdad 3 05 79
+La cuna de la verdad 5 14 96
+El beso de la vida 3 38 80
+La sinfonia de la vida 4 24 90
+El cristal de la vida 2 53 77
+El vuelo de la vida 5 39 92
+El ultimo beso de la vida 3 18 88
+La cancion de la vida 4 32 75
+El eco de la vida 3 02 84
+El secreto de la vida 5 27 94
+El rio de la vida 3 46 83
+El guardian de la vida 4 19 97
+El susurro de la vida 2 50 78
+El final de la vida 5 30 99
+El corazon de la vida 3 25 81
+El vals de la vida 4 40 86
+La melodia de la vida 3 07 75
+El vuelo de la vida 6 00 98
+El abrazo de la vida 3 52 73
+La ultima vida 4 31 91
+El hilo de la vida 2 58 82
+La voz de la vida 5 20 94
+El corazon de la vida 3 35 88
+El baile de la vida 4 49 76
+El camino de la vida 3 01 90
+La cancion de la vida 5 26 93
+El beso del amanecer de la vida 3 23 81
+La noche de la vida 4 38 87
+El jardin de la vida 2 57 74
+El faro de la vida 5 44 95
+El susurro de la vida 3 30 89
+El resplandor de la vida 4 18 91
+El ultimo suspiro de la vida 3 06 79
+La cuna de la vida 5 15 96
+El beso de un adios 3 39 80
+La sinfonia de un adios 4 25 90
+El cristal de un adios 2 54 77
+El vuelo de un adios 5 40 92
+El ultimo beso de un adios 3 19 88
+La cancion de un adios 4 33 75
+El eco de un adios 3 03 84
+El secreto de un adios 5 28 94
+El rio de un adios 3 47 83
+El guardian de un adios 4 20 97
+El susurro de un adios 2 51 78
+El final de un adios 5 31 99
+El corazon de un adios 3 26 81
+El vals de un adios 4 41 86
+La melodia de un adios 3 08 75
+El vuelo de un adios 6 01 98
+El abrazo de un adios 3 53 73
+La ultima cancion de un adios 4 32 91
+El hilo de un adios 2 59 82
+La voz de un adios 5 21 94
+El corazon de un adios 3 36 88
+El baile de un adios 4 50 76
+El camino de un adios 3 02 90
+La cancion de un adios 5 27 93
+El beso del amanecer de un adios 3 24 81
+La noche de un adios 4 39 87
+El jardin de un adios 2 58 74
+El faro de un adios 5 45 95
+El susurro de un adios 3 31 89
+El resplandor de un adios 4 19 91
+El ultimo suspiro de un adios 3 07 79
+La cuna de un adios 5 16 96
+El beso de un recuerdo 3 40 80
+La sinfonia de un recuerdo 4 26 90
+El cristal de un recuerdo 2 55 77
+El vuelo de un recuerdo 5 41 92
+El ultimo beso de un recuerdo 3 20 88
+La cancion de un recuerdo 4 34 75
+El eco de un recuerdo 3 04 84
+El secreto de un recuerdo 5 29 94
+El rio de un recuerdo 3 48 83
+El guardian de un recuerdo 4 21 97
+El susurro de un recuerdo 2 52 78
+El final de un recuerdo 5 32 99
+El corazon de un recuerdo 3 27 81
+El vals de un recuerdo 4 42 86
+La melodia de un recuerdo 3 09 75
+El vuelo de un recuerdo 6 02 98
+El abrazo de un recuerdo 3 54 73
+La ultima historia de un recuerdo 4 33 91
+El hilo de un recuerdo 3 00 82
+La voz de un recuerdo 5 22 94
+El corazon de un recuerdo 3 37 88
+El baile de un recuerdo 4 51 76
+El camino de un recuerdo 3 03 90
+La cancion de un recuerdo 5 28 93
+El beso del amanecer de un recuerdo 3 25 81
+La noche de un recuerdo 4 40 87
+El jardin de un recuerdo 2 59 74
+El faro de un recuerdo 5 46 95
+El susurro de un recuerdo 3 32 89
+El resplandor de un recuerdo 4 20 91
+El ultimo suspiro de un recuerdo 3 08 79
+La cuna de un recuerdo 5 17 96
+El beso de la ilusion 3 41 80
+La sinfonia de la ilusion 4 27 90
+El cristal de la ilusion 2 56 77
+El vuelo de la ilusion 5 42 92
+El ultimo beso de la ilusion 3 21 88
+La cancion de la ilusion 4 35 75
+El eco de la ilusion 3 05 84
+El secreto de la ilusion 5 30 94
+El rio de la ilusion 3 49 83
+El guardian de la ilusion 4 22 97
+El susurro de la ilusion 2 53 78
+El final de la ilusion 5 33 99
+El corazon de la ilusion 3 28 81
+El vals de la ilusion 4 43 86
+La melodia de la ilusion 3 10 75
+El vuelo de la ilusion 6 03 98
+El abrazo de la ilusion 3 55 73
+La ultima ilusion 4 34 91
+El hilo de la ilusion 3 01 82
+La voz de la ilusion 5 23 94
+El corazon de la ilusion 3 38 88
+El baile de la ilusion 4 52 76
+El camino de la ilusion 3 04 90
+La cancion de la ilusion 5 29 93
+El beso del amanecer de la ilusion 3 26 81
+La noche de la ilusion 4 41 87
+El jardin de la ilusion 3 00 74
+El faro de la ilusion 5 47 95
+El susurro de la ilusion 3 33 89
+El resplandor de la ilusion 4 21 91
+El ultimo suspiro de la ilusion 3 09 79
+La cuna de la ilusion 5 18 96
+El beso de la esperanza 3 42 80
+La sinfonia de la esperanza 4 28 90
+El cristal de la esperanza 2 57 77
+El vuelo de la esperanza 5 43 92
+El ultimo beso de la esperanza 3 22 88
+La cancion de la esperanza 4 36 75
+El eco de la esperanza 3 06 84
+El secreto de la esperanza 5 31 94
+El rio de la esperanza 3 50 83
+El guardian de la esperanza 4 23 97
+El susurro de la esperanza 2 54 78
+El final de la esperanza 5 34 99
+El corazon de la esperanza 3 29 81
+El vals de la esperanza 4 44 86
+La melodia de la esperanza 3 11 75
+El vuelo de la esperanza 6 04 98
+El abrazo de la esperanza 3 56 73
+La ultima esperanza 4 35 91
+El hilo de la esperanza 3 02 82
+La voz de la esperanza 5 24 94
+El corazon de la esperanza 3 39 88
+El baile de la esperanza 4 53 76
+El camino de la esperanza 3 05 90
+La cancion de la esperanza 5 30 93
+El beso del amanecer de la esperanza 3 27 81
+La noche de la esperanza 4 42 87
+El jardin de la esperanza 3 01 74
+El faro de la esperanza 5 48 95
+El susurro de la esperanza 3 34 89
+El resplandor de la esperanza 4 22 91
+El ultimo suspiro de la esperanza 3 10 79
+La cuna de la esperanza 5 19 96
+El beso de la libertad 3 43 80
+La sinfonia de la libertad 4 29 90
+El cristal de la libertad 2 58 77
+El vuelo de la libertad 5 44 92
+El ultimo beso de la libertad 3 23 88
+La cancion de la libertad 4 37 75
+El eco de la libertad 3 07 84
+El secreto de la libertad 5 32 94
+El rio de la libertad 3 51 83
+El guardian de la libertad 4 24 97
+El susurro de la libertad 2 55 78
+El final de la libertad 5 35 99
+El corazon de la libertad 3 30 81
+El vals de la libertad 4 45 86
+La melodia de la libertad 3 12 75
+El vuelo de la libertad 6 05 98
+El abrazo de la libertad 3 57 73
+La ultima libertad 4 36 91
+El hilo de la libertad 3 03 82
+La voz de la libertad 5 25 94
+El corazon de la libertad 3 40 88
+El baile de la libertad 4 54 76
+El camino de la libertad 3 06 90
+La cancion de la libertad 5 31 93
+El beso del amanecer de la libertad 3 28 81
+La noche de la libertad 4 43 87
+El jardin de la libertad 3 02 74
+El faro de la libertad 5 49 95
+El susurro de la libertad 3 35 89
+El resplandor de la libertad 4 23 91
+El ultimo suspiro de la libertad 3 11 79
+La cuna de la libertad 5 20 96
+El beso de la vida 3 44 80
+La sinfonia de la vida 4 30 90
+El cristal de la vida 2 59 77
+El vuelo de la vida 5 45 92
+El ultimo beso de la vida 3 24 88
+La cancion de la vida 4 38 75
+El eco de la vida 3 08 84
+El secreto de la vida 5 33 94
+El rio de la vida 3 52 83
+El guardian de la vida 4 25 97
+El susurro de la vida 2 56 78
+El final de la vida 5 36 99
+El corazon de la vida 3 31 81
+El vals de la vida 4 46 86
+La melodia de la vida 3 13 75
+El vuelo de la vida 6 06 98
+El abrazo de la vida 3 58 73
+La ultima vida 4 37 91
+El hilo de la vida 3 04 82
+La voz de la vida 5 26 94
+El corazon de la vida 3 41 88
+El baile de la vida 4 55 76
+El camino de la vida 3 07 90
+La cancion de la vida 5 32 93
+El beso del amanecer de la vida 3 29 81
+La noche de la vida 4 44 87
+El jardin de la vida 3 03 74
+El faro de la vida 5 50 95
+El susurro de la vida 3 36 89
+El resplandor de la vida 4 24 91
+El ultimo suspiro de la vida 3 12 79
+La cuna de la vida 5 21 96
+El beso del olvido 3 45 80
+La sinfonia del olvido 4 31 90
+El cristal del olvido 3 00 77
+El vuelo del olvido 5 46 92
+El ultimo beso del olvido 3 25 88
+La cancion del olvido 4 39 75
+El eco del olvido 3 09 84
+El secreto del olvido 5 34 94
+El rio del olvido 3 53 83
+El guardian del olvido 4 26 97
+El susurro del olvido 2 57 78
+El final del olvido 5 37 99
+El corazon del olvido 3 32 81
+El vals del olvido 4 47 86
+La melodia del olvido 3 14 75
+El vuelo del olvido 6 07 98
+El abrazo del olvido 3 59 73
+La ultima cancion del olvido 4 38 91
+El hilo del olvido 3 05 82
+La voz del olvido 5 27 94
+El corazon del olvido 3 42 88
+El baile del olvido 4 56 76
+El camino del olvido 3 08 90
+La cancion del olvido 5 33 93
+El beso del amanecer del olvido 3 30 81
+La noche del olvido 4 45 87
+El jardin del olvido 3 04 74
+El faro del olvido 5 51 95
+El susurro del olvido 3 37 89
+El resplandor del olvido 4 25 91
+El ultimo suspiro del olvido 3 13 79
+La cuna del olvido 5 22 96
+El beso de la melancolia 3 46 80
+La sinfonia de la melancolia 4 32 90
+El cristal de la melancolia 3 01 77
+El vuelo de la melancolia 5 47 92
+El ultimo beso de la melancolia 3 26 88
+La cancion de la melancolia 4 40 75
+El eco de la melancolia 3 10 84
+El secreto de la melancolia 5 35 94
+El rio de la melancolia 3 54 83
+El guardian de la melancolia 4 27 97
+El susurro de la melancolia 2 58 78
+El final de la melancolia 5 38 99
+El corazon de la melancolia 3 33 81
+El vals de la melancolia 4 48 86
+La melodia de la melancolia 3 15 75
+El vuelo de la melancolia 6 08 98
+El abrazo de la melancolia 4 00 73
+La ultima melancolia 4 39 91
+El hilo de la melancolia 3 06 82
+La voz de la melancolia 5 28 94
+El corazon de la melancolia 3 43 88
+El baile de la melancolia 4 57 76
+El camino de la melancolia 3 09 90
+La cancion de la melancolia 5 34 93
+El beso del amanecer de la melancolia 3 31 81
+La noche de la melancolia 4 46 87
+El jardin de la melancolia 3 05 74
+El faro de la melancolia 5 52 95
+El susurro de la melancolia 3 38 89
+El resplandor de la melancolia 4 26 91
+El ultimo suspiro de la melancolia 3 14 79
+La cuna de la melancolia 5 23 96
+El beso de la noche 3 47 80
+La sinfonia de la noche 4 33 90
+El cristal de la noche 3 02 77
+El vuelo de la noche 5 48 92
+El ultimo beso de la noche 3 27 88
+La cancion de la noche 4 41 75
+El eco de la noche 3 11 84
+El secreto de la noche 5 36 94
+El rio de la noche 3 55 83
+El guardian de la noche 4 28 97
+El susurro de la noche 2 59 78
+El final de la noche 5 39 99
+El corazon de la noche 3 34 81
+El vals de la noche 4 49 86
+La melodia de la noche 3 16 75
+El vuelo de la noche 6 09 98
+El abrazo de la noche 4 01 73
+La ultima noche 4 40 91
+El hilo de la noche 3 07 82
+La voz de la noche 5 29 94
+El corazon de la noche 3 44 88
+El baile de la noche 4 58 76
+El camino de la noche 3 10 90
+La cancion de la noche 5 35 93
+El beso del amanecer de la noche 3 32 81
+La noche de la noche 4 47 87
+El jardin de la noche 3 06 74
+El faro de la noche 5 53 95
+El susurro de la noche 3 39 89
+El resplandor de la noche 4 27 91
+El ultimo suspiro de la noche 3 15 79
+La cuna de la noche 5 24 96
+El beso del amanecer 3 48 80
+La sinfonia del amanecer 4 34 90
+El cristal del amanecer 3 03 77
+El vuelo del amanecer 5 49 92
+El ultimo beso del amanecer 3 28 88
+La cancion del amanecer 4 42 75
+El eco del amanecer 3 12 84
+El secreto del amanecer 5 37 94
+El rio del amanecer 3 56 83
+El guardian del amanecer 4 29 97
+El susurro del amanecer 3 00 78
+El final del amanecer 5 40 99
+El corazon del amanecer 3 35 81
+El vals del amanecer 4 50 86
+La melodia del amanecer 3 17 75
+El vuelo del amanecer 6 10 98
+El abrazo del amanecer 4 02 73
+La ultima cancion del amanecer 4 41 91
+El hilo del amanecer 3 08 82
+La voz del amanecer 5 30 94
+El corazon del amanecer 3 45 88
+El baile del amanecer 4 59 76
+El camino del amanecer 3 11 90
+La cancion del amanecer 5 36 93
+El beso del amanecer del amanecer 3 33 81
+La noche del amanecer 4 48 87
+El jardin del amanecer 3 07 74
+El faro del amanecer 5 54 95
+El susurro del amanecer 3 40 89
+El resplandor del amanecer 4 28 91
+El ultimo suspiro del amanecer 3 16 79
+La cuna del amanecer 5 25 96
+El beso de la lluvia 3 49 80
+La sinfonia de la lluvia 4 35 90
+El cristal de la lluvia 3 04 77
+El vuelo de la lluvia 5 50 92
+El ultimo beso de la lluvia 3 29 88
+La cancion de la lluvia 4 43 75
+El eco de la lluvia 3 13 84
+El secreto de la lluvia 5 38 94
+El rio de la lluvia 3 57 83
+El guardian de la lluvia 4 30 97
+El susurro de la lluvia 3 01 78
+El final de la lluvia 5 41 99
+El corazon de la lluvia 3 36 81
+El vals de la lluvia 4 51 86
+La melodia de la lluvia 3 18 75
+El vuelo de la lluvia 6 11 98
+El abrazo de la lluvia 4 03 73
+La ultima cancion de la lluvia 4 42 91
+El hilo de la lluvia 3 09 82
+La voz de la lluvia 5 31 94
+El corazon de la lluvia 3 46 88
+El baile de la lluvia 5 00 76
+El camino de la lluvia 3 12 90
+La cancion de la lluvia 5 37 93
+El beso del amanecer de la lluvia 3 34 81
+La noche de la lluvia 4 49 87
+El jardin de la lluvia 3 08 74
+El faro de la lluvia 5 55 95
+El susurro de la lluvia 3 41 89
+El resplandor de la lluvia 4 29 91
+El ultimo suspiro de la lluvia 3 17 79
+La cuna de la lluvia 5 26 96
+El beso del silencio 3 50 80
+La sinfonia del silencio 4 36 90
+El cristal del silencio 3 05 77
+El vuelo del silencio 5 51 92
+El ultimo beso del silencio 3 30 88
+La cancion del silencio 4 44 75
+El eco del silencio 3 14 84
+El secreto del silencio 5 39 94
+El rio del silencio 3 58 83
+El guardian del silencio 4 31 97
+El susurro del silencio 3 02 78
+El final del silencio 5 42 99
+El corazon del silencio 3 37 81
+El vals del silencio 4 52 86
+La melodia del silencio 3 19 75
+El vuelo del silencio 6 12 98
+El abrazo del silencio 4 04 73
+La ultima cancion del silencio 4 43 91
+El hilo del silencio 3 10 82
+La voz del silencio 5 32 94
+El corazon del silencio 3 47 88
+El baile del silencio 5 01 76
+El camino del silencio 3 13 90
+La cancion del silencio 5 38 93
+El beso del amanecer del silencio 3 35 81
+La noche del silencio 4 50 87
+El jardin del silencio 3 09 74
+El faro del silencio 5 56 95
+El susurro del silencio 3 42 89
+El resplandor del silencio 4 30 91
+El ultimo suspiro del silencio 3 18 79
+La cuna del silencio 5 27 96
+El beso del corazon 3 51 80
+La sinfonia del corazon 4 37 90
+El cristal del corazon 3 06 77
+El vuelo del corazon 5 52 92
+El ultimo beso del corazon 3 31 88
+La cancion del corazon 4 45 75
+El eco del corazon 3 15 84
+El secreto del corazon 5 40 94
+El rio del corazon 3 59 83
+El guardian del corazon 4 32 97
+El susurro del corazon 3 03 78
+El final del corazon 5 43 99
+El corazon del corazon 3 38 81
+El vals del corazon 4 53 86
+La melodia del corazon 3 20 75
+El vuelo del corazon 6 13 98
+El abrazo del corazon 4 05 73
+La ultima cancion del corazon 4 44 91
+El hilo del corazon 3 11 82
+La voz del corazon 5 33 94
+El corazon del corazon 3 48 88
+El baile del corazon 5 02 76
+El camino del corazon 3 14 90
+La cancion del corazon 5 39 93
+El beso del amanecer del corazon 3 36 81
+La noche del corazon 4 51 87
+El jardin del corazon 3 10 74
+El faro del corazon 5 57 95
+El susurro del corazon 3 43 89
+El resplandor del corazon 4 31 91
+El ultimo suspiro del corazon 3 19 79
+La cuna del corazon 5 28 96
+El beso del alma 3 52 80
+La sinfonia del alma 4 38 90
+El cristal del alma 3 07 77
+El vuelo del alma 5 53 92
+El ultimo beso del alma 3 32 88
+La cancion del alma 4 46 75
+El eco del alma 3 16 84
+El secreto del alma 5 41 94
+El rio del alma 4 00 83
+El guardian del alma 4 33 97
+El susurro del alma 3 04 78
+El final del alma 5 44 99
+El corazon del alma 3 39 81
+El vals del alma 4 54 86
+La melodia del alma 3 21 75
+El vuelo del alma 6 14 98
+El abrazo del alma 4 06 73
+La ultima cancion del alma 4 45 91
+El hilo del alma 3 12 82
+La voz del alma 5 34 94
+El corazon del alma 3 49 88
+El baile del alma 5 03 76
+El camino del alma 3 15 90
+La cancion del alma 5 40 93
+El beso del amanecer del alma 3 37 81
+La noche del alma 4 52 87
+El jardin del alma 3 11 74
+El faro del alma 5 58 95
+El susurro del alma 3 44 89
+El resplandor del alma 4 32 91
+El ultimo suspiro del alma 3 20 79
+La cuna del alma 5 29 96
+El beso de la vida 3 53 80
+La sinfonia de la vida 4 39 90
+El cristal de la vida 3 08 77
+El vuelo de la vida 5 54 92
+El ultimo beso de la vida 3 33 88
+La cancion de la vida 4 47 75
+El eco de la vida 3 17 84
+El secreto de la vida 5 42 94
+El rio de la vida 4 01 83
+El guardian de la vida 4 34 97
+El susurro de la vida 3 05 78
+El final de la vida 5 45 99
+El corazon de la vida 3 40 81
+El vals de la vida 4 55 86
+La melodia de la vida 3 22 75
+El vuelo de la vida 6 15 98
+El abrazo de la vida 4 07 73
+La ultima cancion de la vida 4 46 91
+El hilo de la vida 3 13 82
+La voz de la vida 5 35 94
+El corazon de la vida 3 50 88
+El baile de la vida 5 04 76
+El camino de la vida 3 16 90
+La cancion de la vida 5 41 93
+El beso del amanecer de la vida 3 38 81
+La noche de la vida 4 53 87
+El jardin de la vida 3 12 74
+El faro de la vida 5 59 95
+El susurro de la vida 3 45 89
+El resplandor de la vida 4 33 91
+El ultimo suspiro de la vida 3 21 79
+La cuna de la vida 5 30 96
